@@ -1,0 +1,5 @@
+
+.rating .slick-next, .rating .slick-prev {
+    display: none !important;
+    visibility: hidden;
+}
